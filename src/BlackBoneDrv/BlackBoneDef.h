@@ -1,6 +1,6 @@
 #pragma once
 
-#define BLACKBONE_DEVICE_NAME           L"BlackBone"
+#define BLACKBONE_DEVICE_NAME           L"WhiteBone"
 #define BLACKBONE_DEVICE_FILE           L"\\\\.\\" BLACKBONE_DEVICE_NAME
 
 #define FILE_DEVICE_BLACKBONE           0x8005
